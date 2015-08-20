@@ -3,6 +3,14 @@ layout: post
 title: План продающего вебинара для СмартПрогресс
 ---
 
+Сам вебинар [http://soedinennost.com/smartprogress-webinar/](http://soedinennost.com/smartprogress-webinar/)
+
+- 172 уникальных посетителя страницы в день вебинара
+- У ролика на ютубе 156 просмотров
+- Онлайн было 43 человека
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/gkngp9nyrJU?rel=0" frameborder="0" allowfullscreen></iframe>
+
 + Приветствие
 + Контакт
 + Определение аудитории
