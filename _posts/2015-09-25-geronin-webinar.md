@@ -45,7 +45,7 @@ title: Вебинар Геронина
 
 - сегодня и для тех и других и третьих и четвёртых
 
-<img src="/images/2015-05-25-geronin-webinar-vote.png" style="width:100%;"/>
+<img src="/images/2015-09-25-geronin-webinar-vote.png" style="width:100%;"/>
 
 ## Я
 
