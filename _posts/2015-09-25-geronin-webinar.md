@@ -5,7 +5,7 @@ title: Вебинар Геронина
 
 Победитель, 25.09.2015
 
-https://go.myownconference.ru/uspeh/moderator/Tmlrb2xhaVZvcm9iZXY6JDJhJDEwJDRSRWFRQ0FxMUN6R3NWQWJEeHI4Qi5ERUVFUDRNLmg3TmhYSGJIci5kcFNpYmxBbkdHQUJH
+[Вебинарная комната](https://go.myownconference.ru/uspeh/moderator/Tmlrb2xhaVZvcm9iZXY6JDJhJDEwJDRSRWFRQ0FxMUN6R3NWQWJEeHI4Qi5ERUVFUDRNLmg3TmhYSGJIci5kcFNpYmxBbkdHQUJH)
 
 Даём контент и продаем. По части продажи хорошо работают кейсы учеников.
 
