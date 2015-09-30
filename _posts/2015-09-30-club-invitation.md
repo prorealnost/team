@@ -3,7 +3,7 @@ layout: post
 title: Приглашение в Клуб
 ---
 
-Мастер-группа
+Мастер-группа [https://youtu.be/dDWTdQ2GHtI](https://youtu.be/dDWTdQ2GHtI)
 
 ## Почувствуй разницу
 
