@@ -1,6 +1,7 @@
 ---
 layout: post
 title: План продающего вебинара для СмартПрогресс
+cat: Вебинар
 ---
 
 Сам вебинар [http://soedinennost.com/smartprogress-webinar/](http://soedinennost.com/smartprogress-webinar/)

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Коучинг на СмартПрогрессе
+cat: Лендинг
 ---
 
 <a href="{{ page.url }}"><img src="/images/2015-08-15-smartprogress-coaching-teaser.png" width="421"/></a>

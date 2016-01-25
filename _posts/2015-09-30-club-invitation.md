@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Приглашение в Клуб
+cat: Лендинг
 ---
 
 Мастер-группа [https://youtu.be/dDWTdQ2GHtI](https://youtu.be/dDWTdQ2GHtI)

@@ -8,19 +8,45 @@ layout: base
 <div class="margin"></div>
 
 <div id="main" role="main" class="container">
-  <div class="posts">
-    {% for post in site.posts %}
-      <article class="post">
+  <div class="row">
+    <div class="col-md-6">
+      <div class="posts">
+        {% assign cats = site.posts | sort: 'cat' %}
+        {% assign priorcat = 'nonexistent cat' %}
+        {% for cat in cats %}
+          {% if cat.cat != priorcat %}
+          <article class="cat">
+            <h1><a href="{{ site.baseurl }}{{ cat.url }}">{{ cat.cat }}</a></h1>
+            <ul>
+              {% for post in site.posts %}
+                {% if post.cat == cat.cat %}
+                  <li>
+                    <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.title }}</a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
 
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-
-        <div class="entry">
-          {{ post.excerpt }}
-        </div>
-
-        <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Читать Дальше</a>
-      </article>
-    {% endfor %}
+          </article>
+          {% endif %}
+          {% assign priorcat = cat.cat %}
+        {% endfor %}
+      </div>
+    </div>
+    <div class="col-md-6">
+      <div class="posts">
+        <article class="cat">
+          <h1><a href="{{ site.baseurl }}{{ cat.url }}">Хронология</a></h1>
+          <ul>
+            {% for post in site.posts %}
+              <li>
+                <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">{{ post.title }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </article>
+      </div>
+    </div>
   </div>
 </div>
 

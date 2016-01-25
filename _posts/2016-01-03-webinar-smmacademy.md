@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 5 фишек к вебинару (smmacademy.ru)
+cat: Обучение
 ---
 
 ## Представление
