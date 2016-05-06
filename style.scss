@@ -209,3 +209,9 @@ header {
     margin-top: 1em;
   }
 }
+
+@media print {
+  .footer {
+    display: none;
+  }
+}
